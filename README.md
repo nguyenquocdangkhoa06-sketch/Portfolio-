@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28919611/README.md)
+
 # Khoa Nguyen Quoc Dang — Mechanical Engineering Portfolio
 
 A single-file, self-contained portfolio website showcasing my mechanical engineering work.
@@ -16,11 +16,5 @@ A single-file, self-contained portfolio website showcasing my mechanical enginee
   - Hydraulic Cylinder Design
   - Virtual Window — a Raspberry Pi Pico W IoT build
 - **SolidWorks** — parts, assemblies, and dimensioned engineering drawings
-
-## Tech
-
-Plain HTML / CSS / JavaScript in a single `index.html`. Hosted with GitHub Pages.
-
----
 
 © 2026 Khoa Nguyen Quoc Dang
